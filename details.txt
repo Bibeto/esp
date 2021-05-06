@@ -1,0 +1,3 @@
+Details partaining to my ESP8266 - 01 
+Baud rate is 74880 
+portTICK_PERIOD_MS = 10 
