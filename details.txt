@@ -2,3 +2,4 @@ Details partaining to my ESP8266 - 01
 Baud rate is 115200
 monitor baud rate 74880  
 portTICK_PERIOD_MS = 10
+The builtin Led is pin GPIO_IO2

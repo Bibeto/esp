@@ -4,3 +4,4 @@ xtensa-lx106-elf
 hello_world/build
 ESP_Project
 blink/build
+interrupt_example/build
